@@ -1,6 +1,0 @@
-{
-  "summary":  "Implementation plan for DriftShield AI: an enterprise-grade developer tool for comparing API and webhook payloads, detecting structural drift, generating TypeScript compatibility adapters with runtime assertions, and testing them with visual diffs.",
-  "updatedAt":  "2026-10-21T09:41:11.081152613Z",
-  "requestFeedback":  true,
-  "userFacing":  true
-}
