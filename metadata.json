@@ -1,0 +1,6 @@
+{
+  "name": "DriftShield AI",
+  "description": "Detect API and webhook payload drift, inspect breaking structural changes, generate TypeScript compatibility adapters, and run live verification test suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
